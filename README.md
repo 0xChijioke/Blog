@@ -1,13 +1,13 @@
 # React & Apollo Tutorial
 
-This is the sample project that belongs to the [React & Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/) on How to GraphQL.
+Coming soon...
 
 ## How to use
 
 ### 1. Clone repository
 
 ```sh
-git clone https://github.com/howtographql/react-apollo/
+git clone https://github.com/EngrGord/blog/
 ```
 
 
