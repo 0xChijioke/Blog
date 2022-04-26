@@ -26,7 +26,7 @@ My
 
 ### 3. Run the app
 
-Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `blog7` (because the current tab is blocked by the process running the server):
+Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `blog` (because the current tab is blocked by the process running the server):
 
 ```sh
 yarn install
