@@ -16,17 +16,17 @@ git clone https://github.com/howtographql/react-apollo/
 Go to the `server` folder, install dependencies and start the server. 
 
 ```sh
-cd react-apollo/server
+cd blog/server
 yarn install
 yarn dev
 ```
 
 > **Note**: If you want to interact with the GraphQL API of the server inside a [GraphQL Playground](https://github.com/prisma/graphql-playground), you can navigate to [http://localhost:4000](http://localhost:4000).
-
+My
 
 ### 3. Run the app
 
-Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `react-apollo` (because the current tab is blocked by the process running the server):
+Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `blog7` (because the current tab is blocked by the process running the server):
 
 ```sh
 yarn install
